@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|c:\\users\\ahmed.hazem\\source\\repos\\companysystem\\companysystem\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|solutionrelative:companysystem\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|c:\\users\\ahmed.hazem\\source\\repos\\companysystem\\companysystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|solutionrelative:companysystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|c:\\users\\ahmed.hazem\\source\\repos\\companysystem\\companysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|solutionrelative:companysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|c:\\users\\ahmed.hazem\\source\\repos\\companysystem\\companysystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|solutionrelative:companysystem\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Migrations\\20261013095949_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CompanySystem\\Migrations\\20261013095949_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|c:\\users\\ahmed.hazem\\source\\repos\\companysystem\\companysystem\\profiles\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|solutionrelative:companysystem\\profiles\\departmentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|c:\\users\\ahmed.hazem\\source\\repos\\companysystem\\companysystem\\repos\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|solutionrelative:companysystem\\repos\\genericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|c:\\users\\ahmed.hazem\\source\\repos\\companysystem\\companysystem\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|solutionrelative:companysystem\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|c:\\users\\ahmed.hazem\\source\\repos\\companysystem\\companysystem\\repos\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|solutionrelative:companysystem\\repos\\igenericrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|c:\\users\\ahmed.hazem\\source\\repos\\companysystem\\companysystem\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|solutionrelative:companysystem\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|c:\\users\\ahmed.hazem\\source\\repos\\companysystem\\companysystem\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|solutionrelative:companysystem\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|c:\\users\\ahmed.hazem\\source\\repos\\companysystem\\companysystem\\models\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|solutionrelative:companysystem\\models\\employeeproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|c:\\users\\ahmed.hazem\\source\\repos\\companysystem\\companysystem\\repos\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|solutionrelative:companysystem\\repos\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|c:\\users\\ahmed.hazem\\source\\repos\\companysystem\\companysystem\\repos\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|solutionrelative:companysystem\\repos\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|c:\\users\\ahmed.hazem\\source\\repos\\companysystem\\companysystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|solutionrelative:companysystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|c:\\users\\ahmed.hazem\\source\\repos\\companysystem\\companysystem\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|solutionrelative:companysystem\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|c:\\users\\ahmed.hazem\\source\\repos\\companysystem\\companysystem\\dtos\\updatedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|solutionrelative:companysystem\\dtos\\updatedepartmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|c:\\users\\ahmed.hazem\\source\\repos\\companysystem\\companysystem\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE08100C-9626-4F49-B96C-F789910824FA}|CompanySystem\\CompanySystem.csproj|solutionrelative:companysystem\\dtos\\departmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Migrations\\20261013085013_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CompanySystem\\Migrations\\20261013085013_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20261013095949_2.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Migrations\\20261013095949_2.cs",
+              "RelativeDocumentMoniker": "CompanySystem\\Migrations\\20261013095949_2.cs",
+              "ToolTip": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Migrations\\20261013095949_2.cs",
+              "RelativeToolTip": "CompanySystem\\Migrations\\20261013095949_2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T09:59:49.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CompanySystem\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CompanySystem\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T09:08:00.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "CompanySystem\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Controllers\\DepartmentsController.cs*",
+              "RelativeToolTip": "CompanySystem\\Controllers\\DepartmentsController.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T09:08:57.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Program.cs",
+              "RelativeDocumentMoniker": "CompanySystem\\Program.cs",
+              "ToolTip": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Program.cs",
+              "RelativeToolTip": "CompanySystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:46:41.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "CompanySystem\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Models\\Employee.cs",
+              "RelativeToolTip": "CompanySystem\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:23:58.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DepartmentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Profiles\\DepartmentProfile.cs",
+              "RelativeDocumentMoniker": "CompanySystem\\Profiles\\DepartmentProfile.cs",
+              "ToolTip": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Profiles\\DepartmentProfile.cs",
+              "RelativeToolTip": "CompanySystem\\Profiles\\DepartmentProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T09:15:49.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Repos\\GenericRepo.cs",
+              "RelativeDocumentMoniker": "CompanySystem\\Repos\\GenericRepo.cs",
+              "ToolTip": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Repos\\GenericRepo.cs",
+              "RelativeToolTip": "CompanySystem\\Repos\\GenericRepo.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB4AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:54:38.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "CompanySystem\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Models\\Department.cs",
+              "RelativeToolTip": "CompanySystem\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:23:09.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGenericRepo.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Repos\\IGenericRepo.cs",
+              "RelativeDocumentMoniker": "CompanySystem\\Repos\\IGenericRepo.cs",
+              "ToolTip": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Repos\\IGenericRepo.cs",
+              "RelativeToolTip": "CompanySystem\\Repos\\IGenericRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:50:30.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CompanySystem\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "CompanySystem\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA8AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:33:28.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "CompanySystem\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "CompanySystem\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:21:35.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeProject.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Models\\EmployeeProject.cs",
+              "RelativeDocumentMoniker": "CompanySystem\\Models\\EmployeeProject.cs",
+              "ToolTip": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Models\\EmployeeProject.cs",
+              "RelativeToolTip": "CompanySystem\\Models\\EmployeeProject.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:29:36.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Repos\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "CompanySystem\\Repos\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Repos\\IUnitOfWork.cs",
+              "RelativeToolTip": "CompanySystem\\Repos\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:58:34.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Repos\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "CompanySystem\\Repos\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Repos\\UnitOfWork.cs",
+              "RelativeToolTip": "CompanySystem\\Repos\\UnitOfWork.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwBcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T09:02:29.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\appsettings.json",
+              "RelativeDocumentMoniker": "CompanySystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\appsettings.json",
+              "RelativeToolTip": "CompanySystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-13T08:46:09.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "CompanySystem\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Models\\Project.cs",
+              "RelativeToolTip": "CompanySystem\\Models\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:26:04.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateDepartmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\DTOs\\UpdateDepartmentDTO.cs",
+              "RelativeDocumentMoniker": "CompanySystem\\DTOs\\UpdateDepartmentDTO.cs",
+              "ToolTip": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\DTOs\\UpdateDepartmentDTO.cs",
+              "RelativeToolTip": "CompanySystem\\DTOs\\UpdateDepartmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T09:10:34.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DepartmentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\DTOs\\DepartmentDTO.cs",
+              "RelativeDocumentMoniker": "CompanySystem\\DTOs\\DepartmentDTO.cs",
+              "ToolTip": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\DTOs\\DepartmentDTO.cs",
+              "RelativeToolTip": "CompanySystem\\DTOs\\DepartmentDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T09:09:56.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20261013085013_1.cs",
+              "DocumentMoniker": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Migrations\\20261013085013_1.cs",
+              "RelativeDocumentMoniker": "CompanySystem\\Migrations\\20261013085013_1.cs",
+              "ToolTip": "C:\\Users\\ahmed.hazem\\source\\repos\\CompanySystem\\CompanySystem\\Migrations\\20261013085013_1.cs",
+              "RelativeToolTip": "CompanySystem\\Migrations\\20261013085013_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:50:14.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
